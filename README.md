@@ -1,4 +1,4 @@
-📘 LLM Education Pipeline
+AI Question Generation System
 
 A two-stage Large Language Model (LLM) pipeline that converts raw educational text into structured learning content such as MCQs, Q&A, True/False, Fill-in-the-Blanks, and Summaries.
 
